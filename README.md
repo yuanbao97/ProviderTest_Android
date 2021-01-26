@@ -1,0 +1,2 @@
+# ProviderTest_Android
+配合DatabaseTest_Android中的自定义内容提供器使用
